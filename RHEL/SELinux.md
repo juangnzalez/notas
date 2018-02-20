@@ -110,4 +110,3 @@ Se configura en `/etc/selinux/config`.
 
 Parámetros pasado en el arranque prevalecen sobre lo definido aquí.
 
-

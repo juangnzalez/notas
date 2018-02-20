@@ -1,0 +1,32 @@
+type: "MARKDOWN_NOTE"
+folder: "07aeb699a4a9291d86b3"
+title: "Welcome to Boostnote!"
+content: '''
+  # Welcome to Boostnote! 
+  ### _Click to edit this note._
+  
+  ---
+  
+  Boostnote is an *open source* note-taking app. 
+  Repository is published on [GitHub](https://github.com/BoostIO/Boostnote), and tweeting everyday on [@Boostnoteapp](https://twitter.com/boostnoteapp)!
+  
+  ## Features 
+  - [x] No internet or registration required. 
+  - [ ] Quick search and copy the content of note. macOS: <kbd>Cmd</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> / windows: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> 
+  - [ ] Markdown & Snippet note. 
+  - [ ] Available for `vim` and `emacs` mode. 
+  - [ ] Choose your favorite theme on UI, Editor and Code Block! 
+  --- 
+  
+  - Copy Codeblock on Markdown Preview.
+  ```javascript
+  var boostnote = document.getElementById('enjoy').innerHTML
+  
+  console.log(boostnote)
+  ```
+'''
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-10-29T11:35:28.104Z"
+updatedAt: "2017-10-29T11:35:28.104Z"

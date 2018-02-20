@@ -1,0 +1,16 @@
+content: '''
+  # Instalación
+  ++Fuente: https://hub.docker.com/r/sath89/oracle-xe-11g/++
+  
+  1. docker pull sath89/oracle-xe-11g
+  2. 
+  
+'''
+folder: "07aeb699a4a9291d86b3"
+title: "Instalación"
+type: "MARKDOWN_NOTE"
+tags: []
+isStarred: false
+isTrashed: true
+createdAt: "2017-10-29T11:46:12.273Z"
+updatedAt: "2017-10-29T11:46:55.358Z"
